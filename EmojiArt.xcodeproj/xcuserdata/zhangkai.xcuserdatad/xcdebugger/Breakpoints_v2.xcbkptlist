@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "51E76A21-9A57-48AF-920D-A7C4DFED8D0E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33A16740-58B7-43DB-8FF5-3219F71266F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiArt/EmojiArtDocumentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "drop(providers:at:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33A16740-58B7-43DB-8FF5-3219F71266F6 - 2396cb47cce5e00c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EmojiArt.EmojiArtDocumentView.(drop in _87BB8C5958D8C04F9B47E642767980A8)(providers: Swift.Array&lt;__C.NSItemProvider&gt;, at: __C.CGPoint) -&gt; Swift.Bool"
+                  moduleName = "EmojiArt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangkai/Developer/EmojiArt/EmojiArt/EmojiArtDocumentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "413">
+               </Location>
+               <Location
+                  uuid = "33A16740-58B7-43DB-8FF5-3219F71266F6 - 10909a206d28b271"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in EmojiArt.EmojiArtDocumentView.(drop in _87BB8C5958D8C04F9B47E642767980A8)(providers: Swift.Array&lt;__C.NSItemProvider&gt;, at: __C.CGPoint) -&gt; Swift.Bool"
+                  moduleName = "EmojiArt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangkai/Developer/EmojiArt/EmojiArt/EmojiArtDocumentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3CDA48C-DE8F-4C75-AF2A-E0FB8BC7A1E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmojiArt/EmojiArtDocumentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "drop(providers:at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
